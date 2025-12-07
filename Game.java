@@ -11,7 +11,7 @@
  *  rooms, creates the parser and starts the game.  It also evaluates and
  *  executes the commands that the parser returns.
  * 
- * @author  Sandra Fernando - updating back to Git main
+ * @author  Sandra Fernando - updating back to Git main -from desktop
  * @version 7.1
  */
 public class Game 
